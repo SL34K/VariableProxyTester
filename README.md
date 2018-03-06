@@ -1,7 +1,7 @@
 # Sleak's Variable Proxy Tester
 Sleak's Variable Proxy Tester
 
-# [Twitter @OfficialSleak](https://twitter.com/OfficialSleak "Twitter @OfficialSleak")
+# [Twitter @Sl34k](https://twitter.com/Sl34k "Twitter @Sl34k")
 
 # Basic Guide:
 Enter the website URL in the 'url' field i.e. 'http://www.adidas.co.uk/'
